@@ -1,46 +1,6 @@
-/*========================================================================================================*
-
-  +-----+-----+-----+-----+-----+-----+-----+
-  | █▀▀ | ▄▀█ | █▀▀ | █▀▀ | ▄▀█ | █▀▄ | █▀▀ |
-  | █▄▄ | █▀█ | ▄▄█ | █▄▄ | █▀█ | █▄▀ | ██▄ |
-  +-----+-----+-----+-----+-----+-----+-----+ Mouse Edition.
-
-
-    Description:    Cascade, Mouse Edition, is a Firefox Style based on the Cascade theme by Andreas Grafen
-                    What you get is a really simple one-line layout using the new Proton UI.
-
-                  The original Cascade Theme by Andreas Grafen was based on SimpleFox :
-                  > SimpleFox: https://github.com/migueravila/SimpleFox
-
-
-    Authors:        Andreas Grafen (original cascade theme)
-                    (https://andreas.grafen.info)
-
-		            Clément Rambaud (minor tweaks on the original file)
-
-
-    Repository:     https://github.com/andreasgrafen/cascade
-  		            https://github.com/crambaud/cascade
-
-*========================================================================================================*/
-
-
-/*---+---+---+---+---+---+
- | C | O | N | F | I | G |
- +---+---+---+---+---+---*/
-
-/* Feel free to tweak the following
- * config settingsto your own liking. */
-
 
  :root {
     
-    /*---+---+---+---+---+---+---+
-     | C | O | L | O | U | R | S |
-     +---+---+---+---+---+---+---*/
-
-    /* Comment the color theme you don't want to use */
-
     /* Dark Theme Colors */
     --window-colour:               #08151C;
     --secondary-colour:            #131C26;
